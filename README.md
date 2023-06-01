@@ -1,6 +1,8 @@
 # Verify Dev-PKI
 
-[![Build Status](https://travis-ci.org/alphagov/verify-dev-pki.svg?branch=master)](https://travis-ci.org/alphagov/verify-dev-pki)
+>**GOV.UK Verify has closed**
+>
+>This repository is out of date and has been archived
 
 This repo contains keys and certificates for use in integration tests.
 
